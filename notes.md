@@ -16,5 +16,7 @@ If there is time
 - Work on tooltip hover over feature (would make comparisons much easier than just using eye)
 - Use seaborn for nicer visualisations
 - Clean up code, visualisations could be nicer
+- Add a count/total dollar value into the piecharts 
+- Better names for the titles and the x and y axis
 
-Plotting in excel, PBI would be faster but automating graphs in one report has it's advantagess
+Plotting in excel, PBI would be easier and faster but automating graphs in one report has it's advantages
