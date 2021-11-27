@@ -3,6 +3,8 @@
 Archive 
 -  data_clean.ipynb, minor preprocessing work
 - Some assumptions made (tron governance staking => assume remove all tron protocol and related)
+- bunny was in both the to include chainlink users and list of users to exlude
+- no match for armour
 
 
 ##  What is TVL? 
