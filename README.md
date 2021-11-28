@@ -3,13 +3,13 @@
 The file `defi_llama_tvl_analysis.ipynb` contains the analysis. The analysis is split into two segments. The first a Snapshot analysis focused on TVL at one point in time alongside the most recent percentage changes in TVL all by category and chain. The second is a TVL over time analysis looking at the trend in TVL.
 
 ### Archive 
-The `data_clean.ipynb` was used to obtain a list of Chainlink user protocols and the rest of the market protocols (non Chainlink users) both which are separated from the protocols not to include in the analysis. Some minor assumptions were made due to ambiguity:
+The `data_clean.ipynb` was used to obtain a list of Chainlink user protocols, all the market protocols (both Chainlink and non Chainlink using protocols) both which are separated from the protocols not to include in the analysis. Some minor assumptions were made due to ambiguity:
 - Tron governance staking did not have a similar match and this all tron protocol and related was removed (poor Justin Sun). This was 5 protocols only (justlend, justcryptos, sunswap, juststables, sun.io).
 - bunny was in both the to include chainlink users and list of users to exlude, the decision was to exlude it.
 - No match for armour as a protocol so this was ignored
 
 ## Clarifications
-The Market refers to other protocols that are not excluded and not a protocol that uses Chainlink.
+* The Market refers to protocols that are not excluded (it includes both protocols that use Chainlink and don't use Chainlink).
 
 ## What is TVL?
 By the definition from Defi Llama: 
