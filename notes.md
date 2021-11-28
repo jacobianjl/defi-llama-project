@@ -19,5 +19,6 @@ If there is time
 - Add a count/total dollar value into the piecharts 
 - Better names for the titles and the x and y axis
 - More dynamic graphs to be able to zoom in and select the protocols in smaller groups
+- When I work with dataframes, I use ' for strings when I work with python I use "
 
 Plotting in excel, PBI would be easier and faster but automating graphs in one report has it's advantages
